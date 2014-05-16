@@ -1,3 +1,4 @@
 first text
 second text added in first branch
 third text added in first branch
+seventh text added in feature1-branch
