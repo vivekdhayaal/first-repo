@@ -4,3 +4,4 @@ third text added in first branch
 fourth text - merge commit
 fifth text - initial commit
 sixth text added in master
+test
