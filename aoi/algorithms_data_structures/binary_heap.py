@@ -12,7 +12,7 @@ class BinaryHeap:
 
   def insert(self, elem):
     self.heap_list.append(elem)
-    self.size -= 1
+    self.size += 1
     self.percolate_up(self.size)
 
   def percolate_down(self, i):
